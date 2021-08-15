@@ -2,13 +2,20 @@
 //  Project name is Tic-Tac-Toe game in C .
 
 // The game is developed for full-time entertainment and enthusiasms.
+
 //  Though the proposed game is an action game, it doesn’t   involve any violence.
+
 // This game is very popular and is fairly simple by itself.
+
 // It is actually a two player game.
+
 // In this game, there is a board with n x n squares.
+
 //  In our game, it is 3 x 3 squares.
+
 //  The goal of Tic-Tac-Toe is to be one of the players to get three same symbols in a row - horizontally, vertically or  diagonally - s on a 3 x 3 grid .
- 
+
+
  //   source  code
  
  
